@@ -48,8 +48,9 @@ A soft, silicone-based gripper designed to grip general and irregular object geo
 - Improved grip success rate by 38% across tested geometries compared to earlier design iterations
 
 ### Media
+<img width="158.7" height="89.8" alt="WhatsApp Image 2026-09-07 at 17 49 17" src="https://github.com/user-attachments/assets/a0bece8e-cda3-4d85-a8ba-01bd3bb30e37" />
 
-[Add your photos with the humanoid here]
+
 
 ---
 
@@ -69,7 +70,8 @@ Led a 7-member team to design and build an independent humanoid robot, entered a
 
 ### Media
 
-[Add your photos/videos of the humanoid here]
+<img width="400" height="300" alt="IMG_20190330_143356" src="https://github.com/user-attachments/assets/52dcf215-7ad3-478b-b797-d01e77ad1693" />
+
 
 ---
 
@@ -82,7 +84,3 @@ Led a 7-member team to design and build an independent humanoid robot, entered a
 - Taught Arduino programming and electronics basics to high school students
 - Broke down circuits, sensors, and microcontroller logic into beginner-friendly lessons
 - Guided students through hands-on builds to apply concepts in practice
-
-### Media
-
-[Add any photos from classes/student projects here]
