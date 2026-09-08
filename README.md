@@ -26,7 +26,8 @@ This was a solo build end to end: mechanical assembly, sensor integration, and c
 
 ### Media
 
-[Add your videos/photos here, or link to a Drive folder]
+
+<img width="4000" height="3000" alt="IMG_20190330_143356" src="https://github.com/user-attachments/assets/697e62a2-ef2a-4b84-82ce-2866a9ec90e5" />
 
 ---
 
